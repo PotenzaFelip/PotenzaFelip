@@ -1,69 +1,75 @@
-<img alt="Felipe Potenza" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:7b29ff,100:5dd496&text=Felipe%20Potenza&section=header&reversal=false&textBg=false&fontColor=ffffff&fontSize=40&animation=fadeIn&rotate=-1&desc=Software%20Engineer%20|%20Full-Stack%20Developer&descSize=18&descAlign=50&descAlignY=50&fontAlignY=30"></img>
+<img alt="Felipe Potenza" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:7b29ff,100:5dd496&text=Felipe%20Potenza&section=header&reversal=false&textBg=false&fontColor=ffffff&fontSize=40&animation=fadeIn&rotate=-1&desc=Software%20Engineer%20|%20Full-Stack%20.NET%20Specialist&descSize=18&descAlign=50&descAlignY=50&fontAlignY=30"></img>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-potenza-b411a919b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:potenzafelipe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Desenvolvedor Full-Stack & Infraestrutura</strong> especializado em sistemas escaláveis e automação. <br>
-  Freelancer na <strong>SangoIT</strong> e graduando em <strong>Ciência da Computação</strong>.
+  <strong>Engenheiro de Software Full-Stack .NET & DevOps</strong> especializado em sistemas distribuídos, 
+  arquiteturas escaláveis e automação de processos. <br>
+  Focado em <strong>Alta Performance</strong> e entrega contínua (CI/CD).
 </p>
 
 ---
 
-### ⚡ Experiência & Impacto Profissional
+### ⚡ Experiência & Resultados de Impacto (ATS Optimized)
 
-* **SangoIT (Freelance):** Responsável pelo desenvolvimento e sustentação da infraestrutura do **Portal-Barah**, garantindo a estabilidade do ciclo de deploy.
-* **Otimização de Performance:** Reestruturação de consultas SQL e lógica em C#, reduzindo o tempo de resposta em até 60%.
-* **Estabilidade de Sistemas:** Redução de 40% no volume de bugs críticos em módulos de Crédito, E-Commerce e Transporte.
-* **Trajetória:** 4 anos de experiência como Analista de Sistemas na SoftWillians TI Solutions.
+* **SangoIT (Full Stack Engineer - Freelance):** Liderança técnica na infraestrutura do **Portal-Barah**. Implementação de arquitetura de microsserviços e automação de deploy via **GitHub Actions** em ambientes **Cloud (AWS/DigitalOcean)**.
+* **Otimização de Performance:** Reestruturação de consultas complexas em **SQL Server/PostgreSQL** e lógica em **C# (.NET 8)**, resultando em uma melhoria de **60% no tempo de resposta**.
+* **Sustentabilidade de Código:** Redução de **40% em bugs críticos** em produção através de **Code Review**, testes e aplicação de princípios **SOLID** e **Clean Code**.
+* **Trajetória:** 4 anos de atuação como Analista de Sistemas na SoftWillians, gerenciando sistemas de **Crédito, E-Commerce e Windows Forms**.
 
-### 🛠️ Stack Técnica
+### 🏗️ Arquitetura & Boas Práticas
+* **Padrões:** SOLID, Clean Architecture, Design Patterns, DRY e KISS.
+* **Metodologias:** Scrum, Kanban e Gestão de Backlog.
+* **Documentação:** Modelagem de Dados, Diagramas de Arquitetura e Documentação de APIs (Swagger/OpenAPI).
 
-**Back-end & Core**
+### 🛠️ Stack Técnica Principal
+
+**Back-end & Distributed Systems**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,java,py,cpp&perline=8" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,java,py,mongodb,postgres,mysql&perline=8" />
   </a>
 </p>
 
-**Front-end & Database**
+**Front-end & UX**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,angular,html,css,mysql,postgres&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,ts,angular,html,css,tailwind,js,figma&perline=8" />
   </a>
 </p>
 
-**Ferramentas & Infra**
+**Cloud, DevOps & AI Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=githubactions,docker,aws,linux,visualstudio,vscode,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=githubactions,docker,aws,linux,visualstudio,vscode,postman,openai&perline=8" />
   </a>
 </p>
 
 ---
 
-### 🚀 O que estou explorando no momento:
-* ☁️ **Cloud Computing:** Aprofundando conhecimentos em arquitetura AWS.
-* 🤖 **AI Integration:** Implementando soluções com a API da OpenAI em ecossistemas Java/Spring.
-* 🏗️ **DevOps:** Refinando pipelines de CI/CD para automação total de entrega de software.
+### 🚀 Exploração & Especialização Atual
+* ☁️ **Cloud Architecture:** Especialização em escalabilidade e otimização de custos na AWS.
+* 🤖 **AI Driven Development:** Integração de **OpenAI API** e uso de ferramentas assistidas por IA (**Cursor, RooCode**) para ganho de produtividade real.
+* ⚙️ **DevOps & Containers:** Orquestração de containers com Docker e estudo de Kubernetes (K8s) para aplicações de missão crítica.
 
-### 🎓 Formação & Especializações
+### 🎓 Formação & Certificações
 * **Bacharelado em Ciência da Computação** (Em andamento)
-* **Spring Boot 3 & Cloud Computing (AWS)** - Alura 
-* **Java Reativo & Integração com OpenAI** - Alura
+* **Técnico em Informática** - ETEP Centro Universitário (Concluído)
+* **Spring Boot 3, Cloud Computing (AWS) & Java Reativo** - Alura
 
 ---
 
 ### 📫 Conecte-se comigo:
-* **LinkedIn:** [felipe-potenza](https://www.linkedin.com/in/felipe-potenza-desenvolvedor-analista/) 
-* **Email:** [potenzafelipe@gmail.com](mailto:potenzafelipe@gmail.com) 
-* **Localização:** São José dos Campos - SP 
+* **LinkedIn:** [felipe-potenza](https://www.linkedin.com/in/felipe-potenza-b411a919b/) 
+* **Portfólio Interativo:** [Acesse meu currículo online](https://potenzafelip.github.io/felipe-potenza-portfolio/)
+* **Localização:** São José dos Campos - SP (Disponível para Remoto / Híbrido)
 
 <br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:7b29ff,100:5dd496&section=footer&reversal=false&textBg=false&fontColor=ffffff&fontSize=40&animation=fadeIn&rotate=-1&descSize=18&descAlign=50&descAlignY=50&fontAlignY=30"></img>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:7b29ff,100:5dd496&section=footer&reversal=false&textBg=false&fontColor=ffffff&fontSize=40&animation=fadeIn&rotate=-1"></img>
