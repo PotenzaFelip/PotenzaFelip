@@ -17,7 +17,7 @@
 
 ---
 
-### ⚡ Experiência & Resultados de Impacto (ATS Optimized)
+### ⚡ Experiência & Resultados de Impacto 
 
 * **SangoIT (Full Stack Engineer - Freelance):** Liderança técnica na infraestrutura do **Portal-Barah**. Implementação de arquitetura de microsserviços e automação de deploy via **GitHub Actions** em ambientes **Cloud (AWS/DigitalOcean)**.
 * **Otimização de Performance:** Reestruturação de consultas complexas em **SQL Server/PostgreSQL** e lógica em **C# (.NET 8)**, resultando em uma melhoria de **60% no tempo de resposta**.
